@@ -1,0 +1,40 @@
+## 1.1.1
+## Total Reads = 25896180
+## Mapped Reads = 25790394
+## Unmapped Reads = 105786
+## Source(s) : /bigdata/stajichlab/tkurb001/2020/Illumina_Black_Yeasts/Xenobiotica/blobplot/bam/CCFEE_6238.Exophiala.xenobiotica.remap.bam
+# contig_id	read_cov	base_cov
+scaffold_1	4723302	123.6116
+scaffold_2	793042	7175.7539
+scaffold_3	3768459	123.3222
+scaffold_4	3922228	122.5963
+scaffold_5	2984190	123.0011
+scaffold_6	3087209	123.4437
+scaffold_7	2876138	127.3584
+scaffold_8	2919619	123.4969
+scaffold_9	7558	127.3172
+scaffold_10	135265	3038.6862
+scaffold_11	256438	6150.6424
+scaffold_12	286093	7959.6171
+scaffold_13	4661	132.4616
+scaffold_14	3167	293.6689
+scaffold_15	1342	223.7712
+scaffold_16	1712	289.0109
+scaffold_17	599	157.4558
+scaffold_18	1332	376.6108
+scaffold_19	417	122.7769
+scaffold_20	569	179.547
+scaffold_21	253	83.1674
+scaffold_22	184	74.5823
+scaffold_23	141	57.1527
+scaffold_24	344	152.225
+scaffold_25	137	61.9066
+scaffold_26	125	58.9787
+scaffold_27	145	69.0689
+scaffold_28	99	51.7742
+scaffold_29	136	75.9011
+scaffold_30	142	81.3752
+scaffold_31	141	84.3574
+scaffold_32	143	88.7489
+scaffold_33	67	45.7588
+scaffold_34	11	8.1048

@@ -1,0 +1,20 @@
+## 1.1.1
+## bam0=/bigdata/stajichlab/tkurb001/2020/Illumina_Black_Yeasts/Xenobiotica/blobplot/bam/CCFEE_5748.Exophiala.sideris.remap.bam
+# name	colour	count_visible	count_visible_perc	span_visible	span_visible_perc	n50	gc_mean	gc_std	bam0_mean	bam0_std	bam0_read_map	bam0_read_map_p
+all	None	319	100.0%	29,883,225	100.0%	3,656,333	0.45	0.096	265.5	393.2	25,028,198	99.4%
+Chaetothyriales	#1f77b4	103	100.0%	29,682,910	100.0%	3,656,333	0.48	0.074	288.9	359.3	24,500,485	97.3%
+no-hit	#d3d3d3	193	100.0%	101,457	100.0%	749	0.43	0.1	237.6	388.7	213,897	0.8%
+Ascomycota-undef	#ff7f0e	2	100.0%	34,130	100.0%	30,809	0.51	0.022	272.2	163.5	33,973	0.1%
+Eukaryota-undef	#d62728	7	100.0%	16,040	100.0%	2,424	0.42	0.051	280.6	220.1	28,856	0.1%
+Onygenales	#9467bd	1	100.0%	11,307	100.0%	11,307	0.51	0.0	111.6	0.0	8,938	0.0%
+Sporadotrichida	#e377c2	1	100.0%	10,389	100.0%	10,389	0.51	0.0	2519.5	0.0	185,362	0.7%
+Eurotiales	#7f7f7f	2	100.0%	7,973	100.0%	7,406	0.47	0.032	388.6	162.3	13,771	0.1%
+Glomerellales	#bcbd22	1	100.0%	5,224	100.0%	5,224	0.54	0.0	108.0	0.0	3,997	0.0%
+other	#ffffff	9	100.0%	13,795	100.0%	2,181	0.46	0.1	339.3	334.6	38,919	0.2%
+Verrucariales	None	2	100.0%	3,797	100.0%	2,253	0.47	0.0093	193.1	69.8	4,842	0.0%
+Rickettsiales	None	2	100.0%	3,740	100.0%	3,140	0.58	0.018	947.1	117.3	27,194	0.1%
+Hypocreales	None	1	100.0%	2,181	100.0%	2,181	0.24	0.0	82.1	0.0	1,268	0.0%
+Fabales	None	1	100.0%	1,354	100.0%	1,354	0.51	0.0	217.4	0.0	2,085	0.0%
+Peronosporales	None	1	100.0%	1,354	100.0%	1,354	0.5	0.0	232.0	0.0	2,225	0.0%
+Helotiales	None	1	100.0%	1,159	100.0%	1,159	0.33	0.0	140.7	0.0	1,155	0.0%
+Myriangiales	None	1	100.0%	210	100.0%	210	0.47	0.0	100.9	0.0	150	0.0%

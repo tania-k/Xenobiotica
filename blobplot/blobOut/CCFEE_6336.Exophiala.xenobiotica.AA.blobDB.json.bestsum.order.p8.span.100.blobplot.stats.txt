@@ -1,0 +1,7 @@
+## 1.1.1
+## bam0=/bigdata/stajichlab/tkurb001/2020/Illumina_Black_Yeasts/Xenobiotica/blobplot/bam/CCFEE_6336.Exophiala.xenobiotica.remap.bam
+# name	colour	count_visible	count_visible_perc	span_visible	span_visible_perc	n50	gc_mean	gc_std	bam0_mean	bam0_std	bam0_read_map	bam0_read_map_p
+all	None	32	100.0%	29,432,264	100.0%	4,340,468	0.46	0.13	342.7	579.0	24,664,647	99.4%
+Chaetothyriales	#1f77b4	24	100.0%	29,423,876	100.0%	4,340,468	0.47	0.12	412.2	652.9	24,657,090	99.4%
+Eurotiales	#ff7f0e	1	100.0%	5,263	100.0%	5,263	0.52	0.0	116.5	0.0	4,165	0.0%
+no-hit	#d3d3d3	7	100.0%	3,125	100.0%	474	0.42	0.17	137.0	69.3	3,392	0.0%

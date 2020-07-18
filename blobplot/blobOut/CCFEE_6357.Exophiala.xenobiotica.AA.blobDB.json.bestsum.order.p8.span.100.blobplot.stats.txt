@@ -1,0 +1,33 @@
+## 1.1.1
+## bam0=/bigdata/stajichlab/tkurb001/2020/Illumina_Black_Yeasts/Xenobiotica/blobplot/bam/CCFEE_6357.Exophiala.xenobiotica.remap.bam
+# name	colour	count_visible	count_visible_perc	span_visible	span_visible_perc	n50	gc_mean	gc_std	bam0_mean	bam0_std	bam0_read_map	bam0_read_map_p
+all	None	3,182	100.0%	34,068,724	100.0%	3,942,416	0.5	0.044	71.5	90.6	11,854,278	99.3%
+Chaetothyriales	#1f77b4	765	100.0%	32,486,759	100.0%	3,942,416	0.51	0.037	84.2	115.8	10,993,524	92.1%
+no-hit	#d3d3d3	2,296	100.0%	1,179,565	100.0%	626	0.5	0.044	67.5	80.2	684,942	5.7%
+Ascomycota-undef	#ff7f0e	18	100.0%	150,185	100.0%	40,300	0.52	0.035	76.4	37.1	54,604	0.5%
+Eurotiales	#d62728	31	100.0%	98,832	100.0%	11,918	0.52	0.028	58.1	31.9	38,318	0.3%
+Helotiales	#9467bd	12	100.0%	23,529	100.0%	3,746	0.5	0.073	122.1	182.6	10,314	0.1%
+Xylariales	#e377c2	11	100.0%	23,310	100.0%	6,252	0.53	0.031	71.9	76.5	9,742	0.1%
+Capnodiales	#7f7f7f	6	100.0%	22,831	100.0%	20,604	0.54	0.05	64.8	37.3	7,937	0.1%
+Onygenales	#bcbd22	2	100.0%	22,729	100.0%	21,999	0.54	0.0045	58.9	12.3	7,424	0.1%
+other	#ffffff	41	100.0%	60,984	100.0%	6,302	0.51	0.077	52.7	89.0	47,473	0.4%
+Phaeomoniellales	None	2	100.0%	14,879	100.0%	9,898	0.49	0.0001	58.3	6.6	6,196	0.1%
+Verrucariales	None	3	100.0%	10,592	100.0%	7,248	0.5	0.025	57.1	17.1	3,758	0.0%
+Glomerellales	None	3	100.0%	9,360	100.0%	7,504	0.5	0.029	100.0	27.4	5,449	0.0%
+Pleosporales	None	6	100.0%	6,565	100.0%	3,379	0.51	0.021	85.7	41.8	3,845	0.0%
+Hypocreales	None	3	100.0%	6,465	100.0%	2,237	0.49	0.013	108.5	48.6	4,694	0.0%
+Brassicales	None	1	100.0%	6,302	100.0%	6,302	0.51	0.0	529.0	0.0	22,893	0.2%
+Clostridiales	None	4	100.0%	1,146	100.0%	277	0.43	0.11	3.1	0.9	26	0.0%
+Pseudomonadales	None	3	100.0%	842	100.0%	278	0.5	0.1	2.1	0.0	12	0.0%
+Bacteroidales	None	3	100.0%	810	100.0%	263	0.49	0.03	2.5	1.0	14	0.0%
+Neisseriales	None	2	100.0%	555	100.0%	301	0.42	0.048	2.3	0.1	9	0.0%
+Bifidobacteriales	None	2	100.0%	539	100.0%	308	0.62	0.014	2.2	0.3	8	0.0%
+Polyporales	None	1	100.0%	526	100.0%	526	0.5	0.0	86.1	0.0	312	0.0%
+Pezizales	None	1	100.0%	497	100.0%	497	0.53	0.0	64.8	0.0	222	0.0%
+Propionibacteriales	None	1	100.0%	296	100.0%	296	0.64	0.0	1.5	0.0	3	0.0%
+Corynebacteriales	None	1	100.0%	283	100.0%	283	0.64	0.0	2.1	0.0	4	0.0%
+Firmicutes-undef	None	1	100.0%	278	100.0%	278	0.51	0.0	2.1	0.0	4	0.0%
+Rhizobiales	None	1	100.0%	274	100.0%	274	0.61	0.0	2.1	0.0	4	0.0%
+Bacillales	None	1	100.0%	268	100.0%	268	0.55	0.0	7.0	0.0	13	0.0%
+Coriobacteriales	None	1	100.0%	259	100.0%	259	0.63	0.0	1.7	0.0	3	0.0%
+Lactobacillales	None	1	100.0%	248	100.0%	248	0.38	0.0	2.3	0.0	4	0.0%

@@ -1,0 +1,6 @@
+## 1.1.1
+## bam0=/bigdata/stajichlab/tkurb001/2020/Illumina_Black_Yeasts/Xenobiotica/blobplot/bam/CCFEE_6333.Exophiala.xenobiotica.remap.bam
+# name	colour	count_visible	count_visible_perc	span_visible	span_visible_perc	n50	gc_mean	gc_std	bam0_mean	bam0_std	bam0_read_map	bam0_read_map_p
+all	None	33	100.0%	29,445,010	100.0%	4,572,095	0.48	0.12	492.4	850.7	38,618,498	99.4%
+Ascomycota	#1f77b4	25	100.0%	29,440,092	100.0%	4,572,095	0.5	0.093	434.7	687.7	38,565,278	99.2%
+no-hit	#d3d3d3	8	100.0%	4,918	100.0%	897	0.43	0.16	672.5	1210.1	53,220	0.1%

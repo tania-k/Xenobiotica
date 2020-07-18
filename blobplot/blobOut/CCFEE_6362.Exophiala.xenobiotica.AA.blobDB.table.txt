@@ -1,0 +1,39 @@
+## 1.1.1
+## assembly	: /bigdata/stajichlab/tkurb001/2020/Illumina_Black_Yeasts/Xenobiotica/blobplot/genomes/CCFEE_6362.Exophiala.xenobiotica.sorted.fasta
+## coverage	 bam0 - /bigdata/stajichlab/tkurb001/2020/Illumina_Black_Yeasts/Xenobiotica/blobplot/bam/CCFEE_6362.Exophiala.xenobiotica.remap.bam
+## taxonomy	 tax0 - /bigdata/stajichlab/tkurb001/2020/Illumina_Black_Yeasts/Xenobiotica/blobplot/taxonomy/CCFEE_6362.Exophiala.xenobiotica.diamond.tab.taxified.out
+## nodesDB	: None
+## taxrule	: bestsum
+## min_score	: 0.0
+## min_diff	: 0.0
+## tax_collision_random	: False
+##
+# name	length	GC	N	bam0	superkingdom.t.6%s	superkingdom.s.7%s	superkingdom.c.8	phylum.t.9%s	phylum.s.10%s	phylum.c.11	order.t.12%s	order.s.13%s	order.c.14	family.t.15%s	family.s.16%s	family.c.17	genus.t.18%s	genus.s.19%s	genus.c.20	species.t.21%s	species.s.22%s	species.c.23
+scaffold_1	5803941	0.5175	1528	131.1539	Eukaryota	8256.4	0	Ascomycota	8256.4	0	Chaetothyriales	8256.4	0	Herpotrichiellaceae	8256.4	0	Exophiala	8256.4	0	Exophiala xenobiotica	8256.4	0
+scaffold_2	2403	0.5119	10	2268.5577	Eukaryota	255.8	0	Ascomycota	255.8	0	Eurotiales	255.8	0	Aspergillaceae	255.8	0	Aspergillus	255.8	0	Aspergillus steynii	255.8	0
+scaffold_3	18943	0.2751	0	755.6533	Eukaryota	714.1	0	Ascomycota	714.1	0	Chaetothyriales	714.1	0	Herpotrichiellaceae	714.1	0	Exophiala	714.1	0	Exophiala dermatitidis	714.1	0
+scaffold_4	4340070	0.5191	1115	131.2344	Eukaryota	5872.7	0	Ascomycota	5872.7	0	Chaetothyriales	5872.7	0	Herpotrichiellaceae	5872.7	0	Exophiala	5872.7	0	Exophiala xenobiotica	5872.7	0
+scaffold_5	4719111	0.5198	1021	131.3068	Eukaryota	8332.2	0	Ascomycota	8332.2	0	Chaetothyriales	8332.2	0	Herpotrichiellaceae	8332.2	0	Exophiala	8332.2	0	Exophiala xenobiotica	8332.2	0
+scaffold_6	3724480	0.5186	1111	131.281	Eukaryota	7284.1	0	Ascomycota	7284.1	0	Chaetothyriales	7284.1	0	Herpotrichiellaceae	7284.1	0	Exophiala	7284.1	0	Exophiala xenobiotica	7284.1	0
+scaffold_7	3741325	0.52	400	131.1263	Eukaryota	4414.8	0	Ascomycota	4414.8	0	Chaetothyriales	4414.8	0	Herpotrichiellaceae	4414.8	0	Exophiala	4414.8	0	Exophiala xenobiotica	4414.8	0
+scaffold_8	3398754	0.5185	713	134.9142	Eukaryota	4800.3	0	Ascomycota	4800.3	0	Chaetothyriales	4800.3	0	Herpotrichiellaceae	4800.3	0	Exophiala	4800.3	0	Exophiala xenobiotica	4800.3	0
+scaffold_9	3633234	0.5208	507	131.3623	Eukaryota	7907.4	0	Ascomycota	7907.4	0	Chaetothyriales	7907.4	0	Herpotrichiellaceae	7907.4	0	Exophiala	7907.4	0	Exophiala xenobiotica	7907.4	0
+scaffold_10	12399	0.2489	0	844.8007	Eukaryota	1126.3	0	Ascomycota	1126.3	0	Chaetothyriales	1126.3	0	Herpotrichiellaceae	1126.3	0	Exophiala	1126.3	0	Exophiala dermatitidis	1126.3	0
+scaffold_11	8879	0.495	0	127.8457	Eukaryota	214.2	0	Ascomycota	214.2	0	Chaetothyriales	214.2	0	Herpotrichiellaceae	214.2	0	Exophiala	214.2	0	Exophiala xenobiotica	214.2	0
+scaffold_12	5263	0.517	0	132.5909	Eukaryota	318.9	0	Ascomycota	318.9	0	Eurotiales	318.9	0	Aspergillaceae	318.9	0	Penicillium	318.9	0	Penicillium nalgiovense	318.9	0
+scaffold_13	897	0.5162	0	262.2884	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0
+scaffold_14	737	0.5598	10	135.5815	Eukaryota	407.9	0	Ascomycota	407.9	0	Chaetothyriales	407.9	0	Herpotrichiellaceae	407.9	0	Exophiala	407.9	0	Exophiala xenobiotica	407.9	0
+scaffold_15	724	0.5677	0	236.0721	Eukaryota	396.4	0	Ascomycota	396.4	0	Chaetothyriales	396.4	0	Herpotrichiellaceae	396.4	0	Exophiala	396.4	0	Exophiala oligosperma	396.4	0
+scaffold_16	529	0.1664	0	227.6759	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0
+scaffold_17	474	0.1329	0	97.6147	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0
+scaffold_18	455	0.5385	0	95.836	Eukaryota	266.2	0	Ascomycota	266.2	0	Chaetothyriales	266.2	0	Herpotrichiellaceae	266.2	0	Exophiala	266.2	0	Exophiala xenobiotica	266.2	0
+scaffold_19	369	0.5908	0	81.3143	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0
+scaffold_20	353	0.4448	0	109.2289	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0
+scaffold_21	338	0.5325	0	187.5	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0
+scaffold_22	315	0.4952	0	69.4374	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0
+scaffold_23	314	0.5255	0	162.5367	Eukaryota	206.8	0	Ascomycota	206.8	0	Chaetothyriales	206.8	0	Herpotrichiellaceae	206.8	0	Exophiala	206.8	0	Exophiala oligosperma	206.8	0
+scaffold_24	268	0.5187	0	132.3626	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0
+scaffold_25	250	0.472	0	74.031	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0	no-hit	0.0	0
+scaffold_26	241	0.5602	0	76.7956	Eukaryota	146.4	0	Ascomycota	146.4	0	Chaetothyriales	146.4	0	Herpotrichiellaceae	146.4	0	Cladophialophora	146.4	0	Cladophialophora immunda	146.4	0
+scaffold_27	219	0.4475	0	46.7367	Eukaryota	139.8	0	Ascomycota	139.8	0	Chaetothyriales	139.8	0	Herpotrichiellaceae	139.8	0	Exophiala	139.8	0	Exophiala oligosperma	139.8	0
+scaffold_28	203	0.5764	0	120.1802	Eukaryota	137.5	0	Ascomycota	137.5	0	Chaetothyriales	137.5	0	Herpotrichiellaceae	137.5	0	Exophiala	137.5	0	Exophiala oligosperma	137.5	0

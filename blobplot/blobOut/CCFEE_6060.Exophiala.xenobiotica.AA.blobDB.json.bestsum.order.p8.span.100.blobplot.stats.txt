@@ -1,0 +1,41 @@
+## 1.1.1
+## bam0=/bigdata/stajichlab/tkurb001/2020/Illumina_Black_Yeasts/Xenobiotica/blobplot/bam/CCFEE_6060.Exophiala.xenobiotica.remap.bam
+# name	colour	count_visible	count_visible_perc	span_visible	span_visible_perc	n50	gc_mean	gc_std	bam0_mean	bam0_std	bam0_read_map	bam0_read_map_p
+all	None	2,456	100.0%	33,602,830	100.0%	4,062,159	0.5	0.059	78.6	278.1	13,278,031	99.2%
+Chaetothyriales	#1f77b4	530	100.0%	32,376,499	100.0%	4,062,159	0.51	0.039	141.5	564.6	12,630,344	94.3%
+no-hit	#d3d3d3	1,746	100.0%	847,723	100.0%	609	0.5	0.053	63.8	98.9	469,403	3.5%
+Ascomycota-undef	#ff7f0e	9	100.0%	169,093	100.0%	50,908	0.52	0.03	59.5	37.9	61,498	0.5%
+Eurotiales	#d62728	25	100.0%	81,821	100.0%	8,667	0.51	0.031	88.5	41.4	39,190	0.3%
+Hypocreales	#9467bd	2	100.0%	26,098	100.0%	25,529	0.5	0.018	114.4	64.0	9,263	0.1%
+Eukaryota-undef	#e377c2	1	100.0%	13,759	100.0%	13,759	0.4	0.0	86.4	0.0	7,928	0.1%
+Botryosphaeriales	#7f7f7f	3	100.0%	12,482	100.0%	5,835	0.49	0.0081	78.9	17.3	6,281	0.0%
+Sphingomonadales	#bcbd22	42	100.0%	11,611	100.0%	270	0.67	0.04	2.6	0.6	202	0.0%
+other	#ffffff	98	100.0%	63,744	100.0%	2,147	0.51	0.12	31.5	95.5	53,922	0.4%
+Pleosporales	None	7	100.0%	11,174	100.0%	2,147	0.52	0.023	78.5	25.2	5,273	0.0%
+Onygenales	None	3	100.0%	9,231	100.0%	8,103	0.51	0.015	68.4	23.7	5,205	0.0%
+Xylariales	None	2	100.0%	6,945	100.0%	6,252	0.52	0.03	65.9	14.3	2,525	0.0%
+Pseudomonadales	None	17	100.0%	5,231	100.0%	272	0.44	0.064	2.8	1.1	109	0.0%
+Polyporales	None	1	100.0%	4,546	100.0%	4,546	0.51	0.0	629.2	0.0	18,622	0.1%
+Glomerellales	None	2	100.0%	4,540	100.0%	3,572	0.5	0.02	376.9	275.3	16,200	0.1%
+Propionibacteriales	None	14	100.0%	3,783	100.0%	268	0.61	0.056	2.3	0.2	59	0.0%
+Clostridiales	None	12	100.0%	3,481	100.0%	283	0.4	0.1	2.7	2.0	65	0.0%
+Helotiales	None	4	100.0%	2,978	100.0%	1,770	0.5	0.019	69.7	44.8	2,045	0.0%
+Erysiphales	None	1	100.0%	2,452	100.0%	2,452	0.5	0.0	205.2	0.0	3,357	0.0%
+Caulobacterales	None	8	100.0%	2,079	100.0%	258	0.69	0.027	3.0	0.7	41	0.0%
+Bacillales	None	3	100.0%	827	100.0%	279	0.34	0.02	2.9	0.4	16	0.0%
+Enterobacterales	None	3	100.0%	799	100.0%	265	0.6	0.045	2.3	0.0	12	0.0%
+Pneumocystidales	None	2	100.0%	559	100.0%	286	0.28	0.031	2.7	0.6	10	0.0%
+Micromonosporales	None	2	100.0%	545	100.0%	273	0.7	0.0031	2.2	0.0	8	0.0%
+Micrococcales	None	2	100.0%	537	100.0%	272	0.7	0.0076	2.2	0.0	8	0.0%
+Glomerales	None	2	100.0%	501	100.0%	261	0.45	0.0091	4.3	2.0	14	0.0%
+Rhizobiales	None	2	100.0%	500	100.0%	252	0.44	0.026	2.4	0.0	8	0.0%
+Burkholderiales	None	2	100.0%	490	100.0%	260	0.62	0.028	3.0	0.4	10	0.0%
+Proteobacteria-undef	None	1	100.0%	400	100.0%	400	0.66	0.0	2.2	0.0	6	0.0%
+Mucorales	None	1	100.0%	338	100.0%	338	0.49	0.0	132.6	0.0	299	0.0%
+Chroococcales	None	1	100.0%	285	100.0%	285	0.44	0.0	2.1	0.0	4	0.0%
+Synechococcales	None	1	100.0%	284	100.0%	284	0.51	0.0	2.1	0.0	4	0.0%
+Flavobacteriales	None	1	100.0%	272	100.0%	272	0.31	0.0	2.2	0.0	4	0.0%
+Malasseziales	None	1	100.0%	258	100.0%	258	0.37	0.0	2.3	0.0	4	0.0%
+Rhabditida	None	1	100.0%	246	100.0%	246	0.66	0.0	2.4	0.0	4	0.0%
+Capnodiales	None	1	100.0%	232	100.0%	232	0.53	0.0	2.6	0.0	4	0.0%
+Rhodospirillales	None	1	100.0%	231	100.0%	231	0.62	0.0	3.9	0.0	6	0.0%

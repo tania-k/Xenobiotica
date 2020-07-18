@@ -1,0 +1,9 @@
+## 1.1.1
+## bam0=/bigdata/stajichlab/tkurb001/2020/Illumina_Black_Yeasts/Xenobiotica/blobplot/bam/CCFEE_6328.Exophiala.sideris.remap.bam
+# name	colour	count_visible	count_visible_perc	span_visible	span_visible_perc	n50	gc_mean	gc_std	bam0_mean	bam0_std	bam0_read_map	bam0_read_map_p
+all	None	324	100.0%	29,884,116	100.0%	3,628,466	0.45	0.098	1040.4	1386.2	98,866,018	99.3%
+Ascomycota	#1f77b4	116	100.0%	29,752,825	100.0%	3,628,466	0.48	0.077	975.8	894.0	97,736,327	98.1%
+no-hit	#d3d3d3	196	100.0%	109,039	100.0%	776	0.44	0.11	1038.6	1603.2	885,424	0.9%
+Eukaryota-undef	#ff7f0e	9	100.0%	17,158	100.0%	2,008	0.43	0.056	1242.0	773.7	118,104	0.1%
+Proteobacteria	#d62728	2	100.0%	3,740	100.0%	3,140	0.58	0.018	4170.6	374.7	118,189	0.1%
+Streptophyta	#9467bd	1	100.0%	1,354	100.0%	1,354	0.51	0.0	824.7	0.0	7,974	0.0%

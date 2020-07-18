@@ -1,0 +1,16 @@
+## 1.1.1
+## bam0=/bigdata/stajichlab/tkurb001/2020/Illumina_Black_Yeasts/Xenobiotica/blobplot/bam/CCFEE_6060.Exophiala.xenobiotica.remap.bam
+# name	colour	count_visible	count_visible_perc	span_visible	span_visible_perc	n50	gc_mean	gc_std	bam0_mean	bam0_std	bam0_read_map	bam0_read_map_p
+all	None	2,456	100.0%	33,602,830	100.0%	4,062,159	0.5	0.059	78.6	278.1	13,278,031	99.2%
+Ascomycota	#1f77b4	591	100.0%	32,704,104	100.0%	4,062,159	0.51	0.041	135.9	535.6	12,781,195	95.4%
+no-hit	#d3d3d3	1,746	100.0%	847,723	100.0%	609	0.5	0.053	63.8	98.9	469,403	3.5%
+Proteobacteria	#ff7f0e	76	100.0%	21,341	100.0%	266	0.61	0.11	2.7	0.8	394	0.0%
+Eukaryota-undef	#d62728	1	100.0%	13,759	100.0%	13,759	0.4	0.0	86.4	0.0	7,928	0.1%
+Actinobacteria	#9467bd	18	100.0%	4,865	100.0%	270	0.63	0.061	2.3	0.2	75	0.0%
+Basidiomycota	#e377c2	2	100.0%	4,804	100.0%	4,546	0.44	0.069	315.8	313.5	18,626	0.1%
+Firmicutes	#7f7f7f	15	100.0%	4,308	100.0%	283	0.38	0.094	2.7	1.8	81	0.0%
+Mucoromycota	#bcbd22	3	100.0%	839	100.0%	261	0.47	0.019	47.0	60.5	313	0.0%
+other	#ffffff	4	100.0%	1,087	100.0%	284	0.48	0.13	2.2	0.1	16	0.0%
+Cyanobacteria	None	2	100.0%	569	100.0%	285	0.47	0.036	2.1	0.0	8	0.0%
+Bacteroidetes	None	1	100.0%	272	100.0%	272	0.31	0.0	2.2	0.0	4	0.0%
+Nematoda	None	1	100.0%	246	100.0%	246	0.66	0.0	2.4	0.0	4	0.0%

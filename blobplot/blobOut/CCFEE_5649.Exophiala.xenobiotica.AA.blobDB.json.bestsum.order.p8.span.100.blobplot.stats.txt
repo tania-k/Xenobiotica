@@ -1,0 +1,19 @@
+## 1.1.1
+## bam0=/bigdata/stajichlab/tkurb001/2020/Illumina_Black_Yeasts/Xenobiotica/blobplot/bam/CCFEE_5649.Exophiala.xenobiotica.remap.bam
+# name	colour	count_visible	count_visible_perc	span_visible	span_visible_perc	n50	gc_mean	gc_std	bam0_mean	bam0_std	bam0_read_map	bam0_read_map_p
+all	None	1,545	100.0%	32,726,499	100.0%	4,041,947	0.49	0.06	150.0	202.8	24,968,908	99.3%
+Chaetothyriales	#1f77b4	494	100.0%	32,113,359	100.0%	4,041,947	0.5	0.06	186.2	198.7	24,261,221	96.5%
+no-hit	#d3d3d3	1,022	100.0%	449,174	100.0%	514	0.49	0.059	129.6	198.8	551,174	2.2%
+Ascomycota-undef	#ff7f0e	3	100.0%	64,509	100.0%	42,508	0.5	0.006	121.9	10.7	56,046	0.2%
+Eurotiales	#d62728	8	100.0%	22,336	100.0%	5,263	0.48	0.067	193.8	124.9	22,416	0.1%
+Helotiales	#9467bd	4	100.0%	20,673	100.0%	11,024	0.49	0.012	144.0	30.8	16,308	0.1%
+Pezizales	#e377c2	1	100.0%	20,005	100.0%	20,005	0.51	0.0	120.4	0.0	16,211	0.1%
+Hypocreales	#7f7f7f	4	100.0%	14,576	100.0%	13,024	0.51	0.018	128.4	54.2	12,077	0.0%
+Xylariales	#bcbd22	2	100.0%	11,735	100.0%	10,789	0.53	0.0055	210.9	94.8	10,380	0.0%
+other	#ffffff	7	100.0%	10,132	100.0%	6,174	0.45	0.11	532.6	445.4	23,075	0.1%
+Botryosphaeriales	None	1	100.0%	6,174	100.0%	6,174	0.51	0.0	120.1	0.0	4,992	0.0%
+Capnodiales	None	2	100.0%	1,301	100.0%	656	0.43	0.15	595.3	499.1	5,251	0.0%
+Sporadotrichida	None	1	100.0%	1,167	100.0%	1,167	0.49	0.0	727.3	0.0	5,714	0.0%
+Rickettsiales	None	1	100.0%	672	100.0%	672	0.26	0.0	1196.3	0.0	5,412	0.0%
+Erysiphales	None	1	100.0%	545	100.0%	545	0.52	0.0	435.8	0.0	1,599	0.0%
+Endogonales	None	1	100.0%	273	100.0%	273	0.49	0.0	58.2	0.0	107	0.0%
